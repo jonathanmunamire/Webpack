@@ -33,6 +33,12 @@ To get a local copy up and running follow these simple example steps.
 
 [Live Demo Link]()
 
+## Create your Own Webpack Template
+
+    Set up project with webpack and get the guide by clicking [here](https://github.com/microverseinc/curriculum-javascript/blob/main/todo-list/exercises/exercise_set_up_project_with_webpack.md)
+
+To get a local copy up and running follow these simple example steps.
+
 ## Authors
 
 👤 **Author**
